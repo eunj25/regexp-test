@@ -1,6 +1,6 @@
 # 정규표현식
 
-정규식, 
+정규식, Regular Expression
 
 ## 역활
 
@@ -28,11 +28,11 @@ new RegExp('[a-z]', 'gi')
 
 ```js
 const str = `
-  010-1235-4565
-  thesecon@gmail.com
-  https://www.omdbapi.com/?apikey=70sss&s=frozen
-  The quick brown fox jumps over the lazy dog.
-  aaaaabbbbddddd
+010-1234-5678
+thesecon@gmail.com
+https://www.omdbapi.com/?apikey=7035c60c&s=frozen
+The quick brown fox jumps over the lazy dog.
+abbcccdddd
 `
 ```
 
